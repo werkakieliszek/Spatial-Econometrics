@@ -1,0 +1,16 @@
+http://download.geofabrik.de/europe/poland/dolnoslaskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/lodzkie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/lubelskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/lubuskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/malopolskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/mazowieckie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/opolskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/podkarpackie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/podlaskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/pomorskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/slaskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/swietokrzyskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/warminsko-mazurskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/wielkopolskie-latest-free.shp.zip
+http://download.geofabrik.de/europe/poland/zachodniopomorskie-latest-free.shp.zip
